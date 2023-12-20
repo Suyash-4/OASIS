@@ -90,6 +90,7 @@ html {
     justify-content: left;
     margin-left: 5%;
     position: relative;
+    overflow: hidden;
 }
 
 .center-page #welcome {
